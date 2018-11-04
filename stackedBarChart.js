@@ -24,12 +24,12 @@ var Ax = d3.scaleBand()
           // .range(["#a6cee3","#1f78b4","#b2df8a","#33a02c","#fb9a99","#e31a1c","#fdbf6f","#ff7f00","#cab2d6","#6a3d9a","#b15928"]);
           // .range(["#8dd3c7","#ffffb3","#bebada","#fb8072","#80b1d3","#fdb462","#b3de69","#fccde5","#d9d9d9","#bc80bd","#ccebc5","#ffed6f"]);
 
-var keysLegend = ["K12","Vocational Edu.","Language Learning","Enrichment Programs","Early Childhood Edu.","SaaS & Informatization","STEM","Study Abroad Services","Higher Edu.","Paid Knowledge","Others"];
+var keysLegend = ["K12","Vocational Edu.","Language Learning","Competence Edu.","Early Childhood Edu.","SaaS & Informatization","STEM","Study Abroad Services","Higher Edu.","Paid Knowledge","Others"];
 
 var LegendData = [{key: "K12", value: "#019ad6"}
 ,{key: "Vocational Edu.", value: "#90d7eb"}
 ,{key: "Language Learning", value: "#b3ec44"}
-,{key: "Enrichment Programs", value: "#32df8c"}
+,{key: "Competence Edu.", value: "#32df8c"}
 ,{key: "Early Childhood Edu.", value: "#f05b71"}
 ,{key: "SaaS & Informatization", value: "#fab3af"}
 ,{key: "STEM", value: "#ae4f39"}
