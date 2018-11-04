@@ -1,7 +1,7 @@
 
 // var color ={Elite:"#3366CC", Grand:"#DC3912",  Lite:"#FF9900", Medium:"#109618", Plus:"#990099", Small:"#0099C6"};
 
-var color = {"K12":"#019ad6", "Vocational Edu.":"#90d7eb", "Language Learning":"#b3ec44", "Enrichment Programs":"#32df8c",  "Early Childhood Edu.":"#f05b71", "SaaS & Informatization":"#fab3af", "STEM" :"#ae4f39", "Study Abroad Services":"#ff781d", "Higher Edu.":"#ffbe78", "Paid Knowledge":"#ce74b8", "Others":"#8552a1"}
+var color = {"K12":"#019ad6", "Vocational Edu.":"#90d7eb", "Language Learning":"#b3ec44", "Competence Edu.":"#32df8c",  "Early Childhood Edu.":"#f05b71", "SaaS & Informatization":"#fab3af", "STEM" :"#ae4f39", "Study Abroad Services":"#ff781d", "Higher Edu.":"#ffbe78", "Paid Knowledge":"#ce74b8", "Others":"#8552a1"}
 // "#b15928"
 // "K12":"#a6cee3", "Vocational Edu.":"#1f78b4", "Language Learning":"#b2df8a", "Enrichment Programs":"#33a02c", "Early Childhood Edu.":"#fb9a99", "SaaS & Informatization":"#e31a1c", "STEM" :"#fdbf6f", "Study Abroad Services":"#ff7f00", "Higher Edu.":"#b15928", "Paid Knowledge":"#6a3d9a", "Others":"#ffff99"
 
