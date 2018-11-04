@@ -126,7 +126,7 @@ var per_serieBar;
 var per_indBar;
 function drawBarChart(serie,ind) {
 
-    var keys = ["K12","Vocational Edu.","Language Learning","Enrichment Programs","Early Childhood Edu.","SaaS & Informatization","STEM","Study Abroad Services","Higher Edu.","Paid Knowledge","Others"];
+    var keys = ["K12","Vocational Edu.","Language Learning","Competence Edu.","Early Childhood Edu.","SaaS & Informatization","STEM","Study Abroad Services","Higher Edu.","Paid Knowledge","Others"];
 
     if (serie==per_serieBar) {
       serie="total"
